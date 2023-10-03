@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@harnessio/ff-nodejs-server-sdk": "file:../ff-nodejs-server-sdk",
+    "@types/node": "^20.8.2",
+    "typescript": "^5.2.2"
+  }
+}
